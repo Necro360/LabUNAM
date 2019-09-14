@@ -1,0 +1,9 @@
+se creo adicionalmente una pagina web para el acceso de administradores 
+desde la cual se podrá registrar nuevos empleados asi como consultarlos, 
+el correo registrado es : examen@gmail.com
+
+la contraseña es : examen 
+
+la contraseña cuenta con un sistema de cifrado md5 y salt
+ 
+
